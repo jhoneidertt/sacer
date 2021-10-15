@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/Adventure-320bit.mp3</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/background.jpg</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/black.jpg</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/cruz.png</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/d1.png</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/d2.png</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/d3.png</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/d4.png</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/d5.png</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/d6.png</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/d7.png</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/destello.jpg</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/Enemy.jpg</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/lives.spritefont</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/sacer.png</File>
+    <File>C:/Users/jttob/source/repos/SpaceWar/Content/soundCross.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
